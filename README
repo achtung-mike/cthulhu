@@ -1,10 +1,8 @@
 
-SQUID Web Proxy Cache                         http://www.squid-cache.org/
+Cthulhu Web Proxy Cache                         https://github.com/achtung-mike/cthulhu
 -------------------------------------------------------------------------
 
-Copyright (C) 1996-2015 The Squid Software Foundation and contributors
-
-Squid software is distributed under GPLv2+ license and includes 
+Cthulhu software is distributed under GPLv2+ license and includes 
 contributions from numerous individuals and organizations.
 Please see the COPYING and CONTRIBUTORS files for details.
 
@@ -20,10 +18,4 @@ Please see the COPYING and CONTRIBUTORS files for details.
   
   You should have received a copy of the GNU General Public License
   along with this program. If not, see http://www.gnu.org/licenses/.
-
-Please use our mailing lists for questions, feedback and bug fixes:
-
-        squid-users@squid-cache.org	# general questions, public forum
-        squid-bugs@squid-cache.org	# bugs and fixes
-        squid@squid-cache.org		# other feedback
 
